@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013580410586",
+    "firebase_url": "https://sodel-9a7b7.firebaseio.com",
+    "project_id": "sodel-9a7b7",
+    "storage_bucket": "sodel-9a7b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013580410586:android:cf4d0e7c8f847a68",
+        "android_client_info": {
+          "package_name": "com.james.sodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013580410586-sr9bb3tlv2pbd2uqik6flhco0t6mp1id.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.james.sodel",
+            "certificate_hash": "d14ea42c566adac94bc47681e58d25914088162c"
+          }
+        },
+        {
+          "client_id": "1013580410586-45tbbvrq0np0pl6bjuug9rk2ddmlt33d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTn4TFfIzEE06jbViWLQneebAyg-V8qsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013580410586-45tbbvrq0np0pl6bjuug9rk2ddmlt33d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

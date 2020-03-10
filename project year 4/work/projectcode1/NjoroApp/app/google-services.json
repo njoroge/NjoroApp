@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994947838961",
+    "firebase_url": "https://learningsodel.firebaseio.com",
+    "project_id": "learningsodel",
+    "storage_bucket": "learningsodel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994947838961:android:1b5fbeabad129d7e",
+        "android_client_info": {
+          "package_name": "com.example.njoroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994947838961-ohna9rnr4ol6lbogrrqa3ftp8bkmn53j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHttTE_ZxE3iarp8MoRzDxyEsH3Sy3nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994947838961-ohna9rnr4ol6lbogrrqa3ftp8bkmn53j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

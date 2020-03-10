@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">SODeL</string>
+
+    <string name="app_logo">SODeL E-Learning</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_signin">SIGN IN</string>
+    <string name="login_forget">Forgot your password ?</string>
+    <string name="login_create">Create an account ?</string>
+    <string name="login_hint_username">Enter username</string>
+    <string name="login_hint_password">Enter password</string>
+
+    <string name="signup_username">Username</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_skill">Skill</string>
+    <string name="signup_pic">Student Profile pic</string>
+    <string name="signup_signup_button">Create Account</string>
+    <string name="signup_hint_username">Enter username</string>
+    <string name="signup_hint_password">Enter password</string>
+    <string name="signup_hint_email">Enter email</string>
+    <string name="signup_hint_skill">Select Skills You\'re Interested In</string>
+
+
+    <string name="update_password_title">Update Password</string>
+    <string name="update_password_message">You have to update your password after resetting it. </string>
+    <string name="update_password_button">Update</string>
+
+    <string name="forget_password_button">Send Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Recommended</string>
+    <string name="profile_fragment">Learning History</string>
+    <string name="category_fragment">Topics</string>
+    <string name="course_overview_fragment">Overview</string>
+    <string name="course_content_fragment">Content</string>
+
+    <string name="home_heading_text">Learn the most in demand skills</string>
+    <string name="home_heading_sub_text">Find content in business, tech and creative from industry experts.</string>
+
+    <string name="course">Course </string>
+    <string name="course_cell_skill">Because you are interested in %s</string>
+    <string name="course_cell_viewers"> - %s viewers</string>
+    <string name="course_cell_instructor"> By: %s </string>
+    <string name="course_cell_instructor_id"> All Courses by %s </string>
+    <string name="course_cell_score">You scored %s in this course</string>
+    <string name="profile_instructor_id"> All Courses by %s </string>
+    <string name="profile_publications"> Publications by %s </string>
+    <string name="profile_topics"> %s is well versed in these topics</string>
+
+    <string name="content_saved_heading_saved">Saved (%s)</string>
+    <string name="content_saved_heading_history">History (%s)</string>
+    <string name="content_saved_heading_collections">Collections (%s)</string>
+    <string name="content_saved_heading_collections_count"> %s items</string>
+
+    <string name="all_skill_of_student">Skill you\'re interested in</string>
+    <string name="student_add_more_skills">Add more skills</string>
+
+    <string name="sctionLogout">Logout</string>
+
+    <string name="course_screen_instructor">Instructor</string>
+    <string name="course_screen_viewers">%s viewers have watched this course</string>
+    <string name="course_screen_likes">%s likes</string>
+    <string name="course_screen_skill_heading">Skills covered in this course</string>
+    <string name="course_screen_related_courses_heading">People watched these courses next</string>
+
+    <string name="download_Pdf">Download pdf</string>
+    <string name="download_Doc">Download Doc</string>
+    <string name="download_zip">Download Zip</string>
+    <string name="download_video">Download Video</string>
+    <string name="download_mp3">Download MP3</string>
+    <string name="openFolder">Open Downloaded Folder</string>
+    <string name="downloadStarted">Download Started…</string>
+    <string name="downloadCompleted">Download Completed…</string>
+    <string name="downloadFailed">Download Failed…</string>
+    <string name="downloadAgain">Download Again</string>
+
+    <string name="search_title">Search</string>
+    <string name="filter_title">Filter</string>
+    <string name="done_title">DONE</string>
+    <string name="search_hint">Search for skills, subject, software</string>
+    <string name="no_results">Oops! No results for your search</string>
+
+    <string name="searched_course_title_duration" formatted="false">%s - %s</string>
+
+    <string name="filter_fragment_heading_actionbar">Refine</string>
+    <string name="filter_fragment_heading_button">Done</string>
+    <string name="filter_fragment_heading">Filter Results</string>
+    <string name="filter_level">Level</string>
+    <string name="filter_type">Type</string>
+    <string name="filter_duration">Duration</string>
+
+    <string name="filter_level_option_1">All</string>
+    <string name="filter_level_option_1_number">%s</string>
+    <string name="filter_level_option_2">Beginner</string>
+    <string name="filter_level_option_2_number">%s</string>
+    <string name="filter_level_option_3">Intermediate</string>
+    <string name="filter_level_option_3_number">%s</string>
+    <string name="filter_level_option_4">Advanced</string>
+    <string name="filter_level_option_4_number">%s</string>
+
+    <string name="filter_type_option_1">All</string>
+    <string name="filter_type_option_1_number">%s</string>
+    <string name="filter_type_option_2">Course</string>
+    <string name="filter_type_option_2_number">%s</string>
+    <string name="filter_type_option_3">Videos</string>
+    <string name="filter_typel_option_3_number">%s</string>
+
+    <string name="filter_duration_option_1">All</string>
+    <string name="filter_duration_option_1_number">%s</string>
+    <string name="filter_duration_option_2">&lt; 10 min</string>
+    <string name="filter_duration_option_2_number">%s</string>
+    <string name="filter_duration_option_3" formatted="false">10 – 30 min</string>
+    <string name="filter_durationl_option_3_number">%s</string>
+    <string name="filter_duration_option_4" formatted="false">30 – 60 min</string>
+    <string name="filter_duration_option_4_number">%s</string>
+    <string name="filter_duration_option_5" formatted="false">1 – 2 hours</string>
+    <string name="filter_duration_option_5_number">%s</string>
+    <string name="filter_duration_option_6" formatted="false">2 – 3 hours</string>
+    <string name="filter_duration_option_6_number">%s</string>
+    <string name="filter_duration_option_7" formatted="false">3+ hours</string>
+    <string name="filter_duration_option_7_number">%s</string>
+
+    <string name="filter_duration_default_selected_1">0</string>
+    <string name="filter_duration_default_selected_2">1</string>
+    <string name="filter_duration_default_selected_3">2</string>
+    <string name="filter_duration_default_selected_4">3</string>
+    <string name="filter_duration_default_selected_5">4</string>
+    <string name="filter_duration_default_selected_6">5</string>
+    <string name="filter_duration_default_selected_7">6</string>
+
+</resources>

@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">E-Learn</string>
+    <string name="title1">ARTIFICIAL INTELLIGENCE</string>
+    <string name="ai2">"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction. Particular applications of AI include expert systems, speech recognition and machine vision.
+
+AI can be categorized as either weak or strong. Weak AI, also known as narrow AI, is an AI system that is designed and trained for a particular task. Virtual personal assistants, such as Apple's Siri, are a form of weak AI. Strong AI, also known as artificial general intelligence, is an AI system with generalized human cognitive abilities. When presented with an unfamiliar task, a strong AI system is able to find a solution without human intervention.
+
+Because hardware, software and staffing costs for AI can be expensive, many vendors are including AI components in their standard offerings, as well as access to Artificial Intelligence as a Service (AIaaS) platforms. AI as a Service allows individuals and companies to experiment with AI for various business purposes and sample multiple platforms before making a commitment. Popular AI cloud offerings include Amazon AI services, IBM Watson Assistant, Microsoft Cognitive Services and Google AI services.
+
+While AI tools present a range of new functionality for businesses ,the use of artificial intelligence raises ethical questions. This is because deep learning algorithms, which underpin many of the most advanced AI tools, are only as smart as the data they are given in training. Because a human selects what data should be used for training an AI program, the potential for human bias is inherent and must be monitored closely.
+
+Some industry experts believe that the term artificial intelligence is too closely linked to popular culture, causing the general public to have unrealistic fears about artificial intelligence and improbable expectations about how it will change the workplace and life in general. Researchers and marketers hope the label augmented intelligence, which has a more neutral connotation, will help people understand that AI will simply improve products and services, not replace the humans that use them.
+
+Components of AI
+Types of artificial intelligence
+Arend Hintze, an assistant professor of integrative biology and computer science and engineering at Michigan State University, categorizes AI into four types, from the kind of AI systems that exist today to sentient systems, which do not yet exist. His categories are as follows:
+
+Type 1: Reactive machines. An example is Deep Blue, the IBM chess program that beat Garry Kasparov in the 1990s. Deep Blue can identify pieces on the chess board and make predictions, but it has no memory and cannot use past experiences to inform future ones. It analyzes possible moves — its own and its opponent — and chooses the most strategic move. Deep Blue and Google's AlphaGO were designed for narrow purposes and cannot easily be applied to another situation.
+Type 2: Limited memory. These AI systems can use past experiences to inform future decisions. Some of the decision-making functions in self-driving cars are designed this way. Observations inform actions happening in the not-so-distant future, such as a car changing lanes. These observations are not stored permanently.
+Type 3: Theory of mind. This psychology term refers to the understanding that others have their own beliefs, desires and intentions that impact the decisions they make. This kind of AI does not yet exist.
+Type 4: Self-awareness. In this category, AI systems have a sense of self, have consciousness. Machines with self-awareness understand their current state and can use the information to infer what others are feeling. This type of AI does not yet exist ."</string>
+    <string name="minimum_password">Please enter minimum password</string>
+    <string name="failed">Authentication Failed</string>
+    <string name="ai">Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction.Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction.Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions) and self-correction."</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name ="password">Password</string>
+    <string name="minimum_password1">Password too short</string>
+    <string name="auth_failed">Authentication failed, check your email and password </string>
+    <string name="change_email">Change Email</string>
+    <string name="logout">Logout</string>
+    <string name="set_settings">Settings</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="about">About</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_to_register">Not a member? Get registered </string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+
+    <string name="about_content">This application provides learning materials for various units </string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="network">"A computer network is a digital telecommunications network which allows nodes to share resources. In computer networks, computing devices exchange data with each other using connections data links between nodes. These data links are established over cable media such as wires or optic cables, or wireless media such as Wi-Fi.
+Network computer devices that originate, route and terminate the data are called network nodes. Nodes are generally identified by network addresses, and can include hosts such as personal computers, phones, and servers, as well as networking hardware such as routers and switches. Two such devices can be said to be networked together when one device is able to exchange information with the other device, whether or not they have a direct connection to each other. In most cases, application-specific communications protocols are layered (i.e. carried as payload) over other more general communications protocols. This formidable collection of information technology requires skilled network management to keep it all running reliably.
+Computer networks support an enormous number of applications and services such as access to the World Wide Web, digital video, digital audio, shared use of application and storage servers, printers, and fax machines, and use of email and instant messaging applications as well as many others. Computer networks differ in the transmission medium used to carry their signals, communications protocols to organize network traffic, the network size, topology, traffic control mechanism and organizational intent. The best-known."</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="about_title">About Application</string>
+    <string name="iot">The Internet of things IoT is the extension of Internet connectivity into physical devices and everyday objects. Embedded with electronics, Internet connectivity, and other forms of hardware such as sensors, these devices can communicate and interact with others over the Internet, and they can be remotely monitored and controlled.[1][2][3][4]
+The definition of the Internet of things has evolved due to the convergence of multiple technologies, real-time analytics, machine learning, commodity sensors, and embedded systems.[5] Traditional fields of embedded systems, wireless sensor networks, control systems, automation (including home and building automation), and others all contribute to enabling the Internet of things. In the consumer market, IoT technology is most synonymous with products pertaining to the concept of the smart home, covering devices and appliances such as lighting fixtures, thermostats, home security systems and cameras, and other home appliances that support one or more common ecosystems, and can be controlled via devices associated with that ecosystem, such as smartphones and smart speakers.
+The IoT concept has faced prominent criticism, especially in regards to privacy and security concerns related to these devices and their intention of pervasive presence. </string>
+    <string name="mob">"Mobile computing is human–computer interaction in which a computer is expected to be transported during normal usage, which allows for transmission of data, voice and video. Mobile computing involves mobile communication, mobile hardware, and mobile software. Communication issues include ad hoc networks and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
+Contents
+    1 Main principles
+    2 Devices
+    3 Limitations
+    4 In-vehicle computing and fleet computing
+    5 Security issues involved in mobile
+    6 Portable computing devices
+    7 Mobile data communication
+    8 See also
+    9 References
+        9.1 Footnotes
+        9.2 Bibliography
+    10 Further reading
+Main principles
+    Portability: Facilitates movement of device(s) within the mobile computing environment.
+    Connectivity: Ability to continuously stay connected with minimal amount of lag/downtime, without being affected by movements of the connected nodes
+    Social Interactivity: Maintaining the connectivity to collaborate with other users, at least within the same environment.
+    Individuality: Adapting the technology to suit individual needs.
+or Portability: Devices/nodes connected within the mobile computing system should facilitate mobility. These devices may have limited device capabilities and limited power supply, but should have a sufficient processing capability and physical portability to operate in a movable environment.
+    Connectivity: This defines the quality of service (QoS) of the network connectivity. In a mobile computing system, the network availability is expected to be maintained at a high level with the minimal amount of lag/downtime without being affected by the mobility of the connected nodes.
+    Interactivity: The nodes belonging to a mobile computing system are connected with one another to communicate and collaborate through active transactions of data.
+    Individuality: A portable device or a mobile node connected to a mobile network often denote an individual; a mobile computing system should be able to adopt the technology to cater the individual needs and also to obtain contextual information of each node</string>
+    <string name="cloud">"Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. The term is generally used to describe data centers available to many users over the Internet. Large clouds, predominant today, often have functions distributed over multiple locations from central servers. If the connection to the user is relatively close, it may be designated an edge server.
+Clouds may be limited to a single organization (enterprise clouds, be available to many organizations (public cloud), or a combination of both (hybrid cloud).
+
+Cloud computing relies on sharing of resources to achieve coherence and economies of scale.
+
+Advocates of public and hybrid clouds note that cloud computing allows companies to avoid or minimize up-front IT infrastructure costs. Proponents also claim that cloud computing allows enterprises to get their applications up and running faster, with improved manageability and less maintenance, and that it enables IT teams to more rapidly adjust resources to meet fluctuating and unpredictable demand. Cloud providers typically use a pay-as-you-go model, which can lead to unexpected operating expenses if administrators are not familiarized with cloud-pricing models.
+
+The availability of high-capacity networks, low-cost computers and storage devices as well as the widespread adoption of hardware virtualization, service-oriented architecture and autonomic and utility computing has led to growth in cloud computing.By 2019, Linux was the most used type of operating systems used, including in Microsoft offerings and is thus described as dominant."</string>
+
+    <string name="bloc">A blockchain, originally block chain, is a growing list of records, called blocks, that are linked using cryptography.[1][6] Each block contains a cryptographic hash of the previous block,[6] a timestamp, and transaction data (generally represented as a Merkle tree).
+
+By design, a blockchain is resistant to modification of the data. It is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.[7] For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for inter-node communication and validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without alteration of all subsequent blocks, which requires consensus of the network majority. Although blockchain records are not unalterable, blockchains may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance. Decentralized consensus has therefore been claimed with a blockchain.[8]
+
+Blockchain was invented by a person (or group of people) using the name Satoshi Nakamoto in 2008 to serve as the public transaction ledger of the cryptocurrency bitcoin.[1] The identity of Satoshi Nakamoto is unknown. The invention of the blockchain for bitcoin made it the first digital currency to solve the double-spending problem without the need of a trusted authority or central server. The bitcoin design has inspired other applications,[1][3] and blockchains that are readable by the public are widely used by cryptocurrencies. Blockchain is considered a type of payment rail.[9] Private blockchains have been proposed for business use. Sources such as Computerworld called the marketing of such blockchains without a proper</string>
+
+<string name="anim">Animation is a method in which pictures are manipulated to appear as moving images. In traditional animation, images are drawn or painted by hand on transparent celluloid sheets to be photographed and exhibited on film. Today, most animations are made with computer-generated imagery (CGI). Computer animation can be very detailed 3D animation, while 2D computer animation can be used for stylistic reasons, low bandwidth or faster real-time renderings. Other common animation methods apply a stop motion technique to two and three-dimensional objects like paper cutouts, puppets or clay figures.
+
+Commonly the effect of animation is achieved by a rapid succession of sequential images that minimally differ from each other. The illusion—as in motion pictures in general—is thought to rely on the phi phenomenon and beta movement, but the exact causes are still uncertain. Analog mechanical animation media that rely on the rapid display of sequential images include the phénakisticope, zoetrope, flip book, praxinoscope and film. Television and video are popular electronic animation media that originally were analog and now operate digitally. For display on the computer, techniques like animated GIF and Flash animation were developed.
+
+Animation is more pervasive than many people realise. Apart from short films, feature films, animated gifs and other media dedicated to the display of moving images, animation is also heavily used for video games, motion graphics and special effects. Animation is also prevalent in information technology interfaces.[
+
+The physical movement of image parts through simple mechanics – in for instance the moving images in magic lantern shows – can also be considered animation. The mechanical manipulation of puppets and objects to emulate living beings has a very long history in automata. Automata were popularised by Disney as animatronics. </string>
+    </resources>
+
+
+
+

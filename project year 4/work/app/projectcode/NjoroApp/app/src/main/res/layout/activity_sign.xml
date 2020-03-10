@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sign">
+
+
+    <ImageView
+        android:id="@+id/register_image"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/hat2"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/register_image"
+        android:text="@string/app_name"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:id="@+id/txt1"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt1"
+        android:text="Learning Modules"
+        android:id="@+id/txt2"
+        android:layout_centerHorizontal="true"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/txt2"
+        android:layout_marginTop="12dp">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/wid1"
+
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:inputType="textEmailAddress"
+            app:errorEnabled="true"
+            app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/register_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_email"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/input_login"
+                android:textColorHighlight="@color/common_google_signin_btn_text_dark_focused"
+                android:textColorLink="@color/common_google_signin_btn_text_dark_focused"
+                android:textCursorDrawable="@color/common_google_signin_btn_text_dark_focused" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/wid2"
+            android:layout_width="300dp"
+
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/wid1"
+            android:layout_centerHorizontal="true"
+            app:errorEnabled="true"
+            app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/register_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/hint_password"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/register_button"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/wid2"
+            android:layout_marginTop="50dp"
+            android:background="@color/bg_login"
+            android:text="Sign up"
+            android:textColor="@color/white"
+            android:layout_centerHorizontal="true"
+            android:textColorHighlight="#00201E1E"
+            android:textColorLink="@color/bg_register"
+            android:textCursorDrawable="@drawable/common_google_signin_btn_icon_light_normal_background" />
+
+        <Button
+            android:id="@+id/log1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/register_button"
+            android:layout_marginTop="47dp"
+            android:layout_centerHorizontal="true"
+            android:text="LOG IN"></Button>
+
+
+    </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="version 1.1.0"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"/>
+
+
+</RelativeLayout>
